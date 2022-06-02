@@ -2,27 +2,32 @@
 ====
 
 
-### Contacts
+## Contacts
 ====
 * Phone: +375 25 9247605
 * Email: yan.htc.one.v@gmail.com
 
-### About Me
+## About Me
 ====
 
-### Skills
+
+## Skills
 ====
 
-### Code Examples
+
+## Code Examples
 ====
 
-### Experience
+
+## Experience
 ====
 
-### Education
+
+## Education
 ====
 
-### Languages
+
+## Languages
 ====
 * Russian, Belarusian - native speaker.
 * English - A1
