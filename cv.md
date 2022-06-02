@@ -1,9 +1,7 @@
 # Yan Zhamoitsin
-
 ===
 
 ### Contacts
-
 ===
 * Phone: +375 25 9247605
 * Email: yan.htc.one.v@gmail.com
@@ -14,16 +12,16 @@
 ### Skills
 ===
 
-Code Examples
+### Code Examples
 ===
 
-Experience
+### Experience
 ===
 
-Education
+### Education
 ===
 
-Languages
+### Languages
 ===
 * Russian, Belarusian - native speaker.
 * English - A1
