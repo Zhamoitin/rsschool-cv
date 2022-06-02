@@ -7,8 +7,11 @@
 ## Code Examples
 ## Experience
 ## Education
+* University
+    * Yanka Kupala State University of Grodno, Information Technology, 2011-2016
+* Courses
 ## Languages
-* Russian, Belarusian - native speaker.
+* Russian, Belarusian - native speaker
 * English - A1
 
 
