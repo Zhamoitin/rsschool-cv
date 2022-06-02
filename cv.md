@@ -1,4 +1,3 @@
-===
 ### Yan Zhamoitsin
 ===
 ## Contacts
@@ -7,40 +6,24 @@
 * Email: yan.htc.one.v@gmail.com
 *
 *
-===
 About Me
 ===
 
-
-===
 Skills
 ===
-*
-*
-*
-*
-===
+
 Code Examples
 ===
 
-
-
-===
 Experience
 ===
 
-
-
-===
 Education
 ===
 
-
-===
 Languages
-
-
-* Russian, belarusian - native speaker.
+===
+* Russian, Belarusian - native speaker.
 * English - A1
 
 
