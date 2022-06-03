@@ -8,7 +8,7 @@ I'm 28 years old. I am a lazy ass, but diligent and responsible. This is not my 
 * HTML
 * CSS
 ## Code Examples
-'<script>alert('Привет, мир!');</script>'
+`<script>alert('Привет, мир!');</script>`
 ## Experience
 ## Education
 * University
