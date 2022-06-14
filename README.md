@@ -1,1 +1,1 @@
-# rsschool-cv
+https://zhamoitin.github.io/rsschool-cv/
